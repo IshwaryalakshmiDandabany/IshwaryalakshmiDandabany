@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="my-photo.jpeg" width="100%" />
+</p>
 <h1 align="center">👋 Hi, I'm Ishwaryalakshmi D</h1>
 
 <h3 align="center">
