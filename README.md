@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IshwaryalakshmiDandabany/IshwaryalakshmiDandabany/main/profile.jpg"
-       width="180"
-       style="border-radius:50%;">
-</p>
-
 <h1 align="center">👋 Hi, I'm Ishwaryalakshmi D</h1>
 <h1 align="center">👋 Hi, I'm Ishwaryalakshmi D</h1>
 
