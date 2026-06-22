@@ -147,7 +147,7 @@ Arduino-based automated irrigation system using soil moisture sensing and sustai
 
 📧 [ishwaryad1411@gmail.com](mailto:ishwaryad1411@gmail.com)
 
-🌐 Portfolio: ADD YOUR NETLIFY LINK HERE
+🌐 Portfolio:ishwarya.netlify.app
 
 ---
 
