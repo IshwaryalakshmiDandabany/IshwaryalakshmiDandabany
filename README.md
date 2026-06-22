@@ -122,7 +122,7 @@ Arduino-based automated irrigation system using soil moisture sensing and sustai
 🐙 GitHub: https://github.com/IshwaryalakshmiDandabany  
 📍 Puducherry, India  
 📧 ishwaryad1411@gmail.com  
-🌐 Portfolio: https://ishwarya.netlify.app  
+🌐 Portfolio: [https://ishwarya.netlify.app ](https://ishwarya.netlify.app/) 
 
 ---
 
