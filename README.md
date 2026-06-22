@@ -1,7 +1,4 @@
-
 <h1 align="center">👋 Hi, I'm Ishwaryalakshmi D</h1>
-<h1 align="center">👋 Hi, I'm Ishwaryalakshmi D</h1>
-
 <h3 align="center">
 🚀 AI & Machine Learning Enthusiast | Full Stack Developer | Cloud Learner
 </h3>
